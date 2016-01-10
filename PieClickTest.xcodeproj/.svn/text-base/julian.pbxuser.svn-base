@@ -1,0 +1,238 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = B93E411B0951EA8900491187 /* PieClickTest */;
+		activeTarget = 8D1107260486CEB800E47090 /* PieClickTest */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* PieClickTest */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = B93E49C60952C5D300491187 /* XCBreakpointsBucket */;
+		codeSenseManager = B93E41270951EAA900491187 /* Code sense */;
+		executables = (
+			B93E411B0951EA8900491187 /* PieClickTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					366,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 166214350;
+			PBXWorkspaceStateSaveDate = 166214350;
+		};
+		perUserProjectItems = {
+			B98B923609589F6900D03E2F /* PBXTextBookmark */ = B98B923609589F6900D03E2F /* PBXTextBookmark */;
+			B9DE8BD309E83B5D00391FAC /* PBXTextBookmark */ = B9DE8BD309E83B5D00391FAC /* PBXTextBookmark */;
+		};
+		sourceControlManager = B93E41260951EAA900491187 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {559, 582}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {559, 582}}";
+			sepNavWindowFrame = "{{38, 257}, {604, 655}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* PieClickTest */ = {
+		activeExec = 0;
+		executables = (
+			B93E411B0951EA8900491187 /* PieClickTest */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {797, 817}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {666, 817}}";
+			sepNavWindowFrame = "{{643, 48}, {711, 890}}";
+		};
+	};
+	B90A2B200957B5B600D58D6D /* JMPieMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 2067}}";
+			sepNavSelRange = "{1711, 0}";
+			sepNavVisRect = "{{0, 965}, {559, 582}}";
+			sepNavWindowFrame = "{{589, 258}, {604, 655}}";
+		};
+	};
+	B90A2B220957B5B600D58D6D /* JMPieMenuItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 4030}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 2987}, {694, 746}}";
+			sepNavWindowFrame = "{{574, 109}, {739, 819}}";
+		};
+	};
+	B90A2B250957B5B600D58D6D /* JMPieMenuView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 7046}}";
+			sepNavSelRange = "{4796, 0}";
+			sepNavVisRect = "{{0, 2327}, {694, 746}}";
+			sepNavWindowFrame = "{{609, 115}, {739, 819}}";
+		};
+	};
+	B90A2B270957B5B600D58D6D /* JMPieMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {580, 754}}";
+			sepNavSelRange = "{543, 0}";
+			sepNavVisRect = "{{0, 172}, {559, 582}}";
+			sepNavWindowFrame = "{{15, 278}, {604, 655}}";
+		};
+	};
+	B93E411B0951EA8900491187 /* PieClickTest */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PieClickTest;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	B93E41260951EAA900491187 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	B93E41270951EAA900491187 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B93E41390951EBAF00491187 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {666, 817}}";
+			sepNavSelRange = "{146, 0}";
+			sepNavVisRect = "{{0, 0}, {666, 817}}";
+			sepNavWindowFrame = "{{15, 43}, {711, 890}}";
+		};
+	};
+	B93E413A0951EBAF00491187 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {538, 186}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRect = "{{0, 0}, {453, 186}}";
+			sepNavWindowFrame = "{{264, 48}, {711, 890}}";
+		};
+	};
+	B93E413E0951F0CE00491187 /* ClickTestView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {666, 817}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRect = "{{0, 0}, {666, 817}}";
+			sepNavWindowFrame = "{{616, 48}, {711, 890}}";
+		};
+	};
+	B93E413F0951F0CE00491187 /* ClickTestView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 1092}}";
+			sepNavSelRange = "{1917, 0}";
+			sepNavVisRect = "{{0, 0}, {823, 816}}";
+			sepNavWindowFrame = "{{449, 49}, {868, 889}}";
+		};
+	};
+	B93E49C60952C5D300491187 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	B98B923609589F6900D03E2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B90A2B250957B5B600D58D6D /* JMPieMenuView.m */;
+		name = "JMPieMenuView.m: 196";
+		rLen = 0;
+		rLoc = 4796;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 4368;
+	};
+	B9DE8BD309E83B5D00391FAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B90A2B250957B5B600D58D6D /* JMPieMenuView.m */;
+		name = "JMPieMenuView.m: 196";
+		rLen = 0;
+		rLoc = 4796;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 4368;
+	};
+}

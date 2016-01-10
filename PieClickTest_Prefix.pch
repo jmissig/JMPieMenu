@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PieClickTest' target in the 'PieClickTest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-28T17:18:10.258582Z"
+   url="svn+ssh://ragnarok/Source/JMPieMenu/PieClickTest/PieClickTest.xcodeproj"
+   last-author="julian"
+   kind="dir"
+   uuid="720de87e-a719-0410-a1ac-ebe0041bf0aa"
+   repos="svn+ssh://ragnarok/Source/JMPieMenu"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="julian.mode1"
+   text-time="2006-07-28T17:18:41.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="82394b27ed617fed6298c24bf012fba3"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="julian.pbxuser"
+   text-time="2006-07-28T17:18:41.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="e3c562c12d6b325916105af6d3873990"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="project.pbxproj"
+   text-time="2006-07-28T17:18:41.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="17e395a3f6fd8e4c4d4823c583c88dc5"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:41.000000Z"/>
+</wc-entries>

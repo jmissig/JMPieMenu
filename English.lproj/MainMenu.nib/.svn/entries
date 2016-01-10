@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-28T17:18:10.258582Z"
+   url="svn+ssh://ragnarok/Source/JMPieMenu/PieClickTest/English.lproj/MainMenu.nib"
+   last-author="julian"
+   kind="dir"
+   uuid="720de87e-a719-0410-a1ac-ebe0041bf0aa"
+   repos="svn+ssh://ragnarok/Source/JMPieMenu"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="info.nib"
+   text-time="2006-07-28T17:18:42.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="fa57f5df096616603ea6c96d2649beec"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:42.000000Z"/>
+<entry
+   committed-rev="1"
+   name="keyedobjects.nib"
+   text-time="2006-07-28T17:18:42.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="f8ec4c94529e1b85b9f1519d1abfb7fe"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:42.000000Z"/>
+<entry
+   committed-rev="1"
+   name="classes.nib"
+   text-time="2006-07-28T17:18:42.000000Z"
+   committed-date="2006-07-28T17:18:10.258582Z"
+   checksum="33710d408719632f8cba8740c5023a43"
+   last-author="julian"
+   kind="file"
+   prop-time="2006-07-28T17:18:42.000000Z"/>
+</wc-entries>

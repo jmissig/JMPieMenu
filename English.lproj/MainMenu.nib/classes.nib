@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"_label" = NSTextField; "_window" = NSWindow; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = ClickTestView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
